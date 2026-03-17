@@ -13,7 +13,7 @@ Aplikasi berbasis web untuk pendataan ibu hamil dan anak stunting.
 2. Jalankan di localhost (XAMPP/Laragon)
 3. Akses melalui browser
 
-## Screenshot
+## Screenshoot
 
 Login
 <img width="1364" height="639" alt="Login" src="https://github.com/user-attachments/assets/640b1fba-b000-4018-aaa7-9e88239b90b7" />
