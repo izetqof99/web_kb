@@ -9,7 +9,7 @@ Aplikasi berbasis web untuk pendataan ibu hamil dan anak stunting.
 - HTML, CSS
 
 ## Cara Menjalankan
-1. Import database dari folder /database
+1. Import database dari folder
 2. Jalankan di localhost (XAMPP/Laragon)
 3. Akses melalui browser
 
